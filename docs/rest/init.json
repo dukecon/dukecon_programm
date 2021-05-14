@@ -22,7 +22,7 @@
   "authEnabled": true,
   "admin": "../rest/admin/javaland2021",
   "forceUpdate": "../rest/conferences/update/javaland2021",
-  "conferences": "../rest/conferences/javaland2021",
+  "conferences": "../rest/conferences/javaland2021.json",
   "events": "../rest/eventsBooking/javaland2021",
   "keycloak": "../rest/keycloak.json",
   "favoritesExport": "../rest/favorites/javaland2021",
